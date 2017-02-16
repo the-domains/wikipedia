@@ -1,0 +1,43 @@
+name: wikipedia
+analytics:
+  facebook: ''
+  google: ''
+  twitter: ''
+github: true
+description: ''
+author:
+  name: ''
+  url: ''
+  email: ''
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+layout_spectrum: 0.8276880197227001
+color:
+  lightness: 1733160860
+  brandColors:
+    - '#FF8000'
+    - '#FFD933'
+    - '#CCCC52'
+    - '#8FB359'
+    - '#192B33'
+  saturation: 975284174
+  brandStrength: 2623062199
+  rhythmicContrast: 2341498243
+content_rating:
+  adult: false
+typography_spectrum: 0.1411173269152641
+opengraph:
+  type: ''
+  appId: ''
+title: ''
